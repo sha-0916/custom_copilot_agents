@@ -1,4 +1,4 @@
-# custom_copilot_agents
+# Custom Copilot Agents
 
 A collection of custom [GitHub Copilot agents](https://code.visualstudio.com/docs/copilot/customization/custom-agents) (`.agent.md` files) for use in VS Code.
 
